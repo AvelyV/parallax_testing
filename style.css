@@ -28,7 +28,7 @@ nav a {
 }
 
 .parallax_1, .parallax_2, .parallax_3 {
-  height: 80%;
+  height: 70%;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -38,6 +38,7 @@ nav a {
 p {
   color: #ffdcb8;
   font-size: 3rem;
+  margin-left: 20px;
 }
 
 p span {
