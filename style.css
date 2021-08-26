@@ -1,0 +1,50 @@
+html, body {
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+nav a {
+  position: fixed;
+  top: 19px;
+  right: 10px;
+}
+
+.parallax_1 {
+  background: url("img/anni.JPG");
+}
+
+.parallax_2 {
+  background: url("img/bee.JPG");
+}
+
+.parallax_3 {
+  background: url("img/raindeer.JPG");
+}
+
+.parallax_1, .parallax_2, .parallax_3 {
+  height: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+p {
+  color: #ffdcb8;
+  font-size: 3rem;
+}
+
+p span {
+  font-size: 5rem;
+  color: #eda151;
+}
+
+p a {
+  color: #eda151;
+}
+/*# sourceMappingURL=style.css.map */
