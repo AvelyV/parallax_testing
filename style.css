@@ -6,6 +6,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: black;
+  font-family: 'Rampart One', cursive;
 }
 
 nav a {
@@ -27,7 +28,7 @@ nav a {
 }
 
 .parallax_1, .parallax_2, .parallax_3 {
-  height: 100%;
+  height: 80%;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
